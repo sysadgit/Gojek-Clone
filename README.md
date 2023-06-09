@@ -1,5 +1,5 @@
 
-GoferJek is <a href="https://www.trioangle.com/gojek-clone/">gojekclone</a>
+GoferJek is <a href="https://www.trioangle.com/gojek-clone/">Gojek Clone</a>
  that is customized to provide multiple services like handyman service, grocery, taxi services, and more within a unified platform. The investment is different to Gojek. You can include top-choice technology, features, designs, and functionality with a minimal investment. 
 
 GoferJek is a product line of Trioangle Technologies. It has happy 250+ clients to date, providing optimistic and reliable services. 
